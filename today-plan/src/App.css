@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: thistle !important;
+
+}
+.App {
+  text-align: center;
+  
+}
+.Form{
+  margin: 100px;
+}
+.Form input{
+  width: 30%;
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+}
+.App h1{
+  margin: 100px;
+  font-size: 50px;
+  background-color: rgb(27, 23, 220);
+  color: rgb(234, 235, 240);
+}
